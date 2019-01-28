@@ -16,4 +16,4 @@ Besure to __complete__ the notebooks and __commit__ back.
 + Continuing on Competition 2 __Data Audit Report Due on 4/8__
   + required files to be updated
 + mini-project 2 Part2  __Due Today__
-+ 
++ mini-project 1 Part 3 __Due 4/1__
