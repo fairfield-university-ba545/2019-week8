@@ -7,7 +7,7 @@
 + Naive Bayes Classification ith Scikit-learn
 + Understanding Logistic Regression
 
-You can clone these notebooks using the Github classroom's __invitation link__.
+You can clone these notebooks using the Github classroom's [__invitation link__](https://classroom.github.com/a/4cP-Z9n-).
 
 Required data file(s) is in the './data/' folder.
 
@@ -15,6 +15,8 @@ Besure to __complete__ the notebooks and __commit__ back.
 
 ## Student Work
 + Continuing on Competition 2 __Data Audit Report Due on 3/31__
+  + Competition 2 [Enrollment Link]()
   + consider the data audit report as the EDA part of your project #1
+    - Resources/Examples added for your convenience [here](https://github.com/DrJieTao/ba545-docs/blob/master/competition2/resources.md)
 + mini-project 2 Part2  __Due 3/17__
 + mini-project 1 Part3 available __Due 3/24__
